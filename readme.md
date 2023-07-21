@@ -1,0 +1,1 @@
+this code goes through a number of processes on how jquery can be uses to manipulate the dom and also perfom events such as onclicks and hovers
